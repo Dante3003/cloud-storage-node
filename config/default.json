@@ -1,0 +1,6 @@
+{
+  "serverPort": 9999,
+  "dbUrl": "mongodb+srv://Admin:Admin$123456@cloud.aj71e.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "secretKey": "key-of-cloud-storage",
+  "filePath": "D:\\cloud-storage"
+}
