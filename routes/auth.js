@@ -8,7 +8,7 @@ const authMiddleware = require("../middlware/authMiddleware");
 const fileService = require("../services/fileService");
 const File = require("../models/File");
 
-router.get("/", async (req, res) => {
+router.get("/test", async (req, res) => {
   console.log("Worked!!!");
   res.status(200).send("Worked!!!!");
 });
